@@ -6,7 +6,9 @@ body {
     background-color: #fdfffc;
     font-family: "constantia";
   }
-  
+  a {
+      text-decoration: none;
+  }
   header,
   footer {
     background-color: #011627;
@@ -37,7 +39,7 @@ body {
   footer a:hover {
     color: #2ec4b6;
   }
-  .timestamp {
+  #timestamp {
     font-size: 14px;
     color: #ff9f1c;
   }
