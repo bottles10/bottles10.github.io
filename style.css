@@ -27,6 +27,11 @@ body {
     margin: 24px 0px 24px;
     float: right;
   }
+
+  .links h2 {
+      text-decoration: underline;
+      
+  }
   
   footer a {
     color: whitesmoke;

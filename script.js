@@ -4,4 +4,4 @@ document.getElementById("currentYear").innerHTML = year
 
 let getTimestamp = Date.now()
 let timestamp = new Date(getTimestamp)
-document.getElementById("timestamp").innerHTML = "Last Modified: " + timestamp 
+document.getElementById("timestamp").innerHTML = "Last Updated: " + timestamp
