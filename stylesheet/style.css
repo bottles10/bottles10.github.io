@@ -21,12 +21,11 @@ ul li a:hover {
   color: #2ec4b6;
 }
 
-img {
+img.profile-pic {
   max-width: 225px;
   border: 6px solid #e71d36;
   border-radius: 4px;
   margin: 24px 0px 24px;
-  float: right;
 }
 
 .links h2 {
